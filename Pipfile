@@ -7,6 +7,14 @@ verify_ssl = true
 
 [packages]
 numpy = "*"
+pandas = "*"
+matplotlib = "*"
+scipy = "*"
+seaborn = "*"
+statsmodels = "*"
+sklearn = "*"
+jupyter="*"
+
 
 [requires]
-python_version = "2.7"
+python_version = "3.7.6"
